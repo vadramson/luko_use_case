@@ -16,3 +16,5 @@ I scraped the websites using
 	- pandas' read_html (_which implicitly uses Beautifulsoup_)
 	
 I used pandas to clean the data and store it in postgreSQL database (_version 12.4_)
+
+project code is found in **Luko_Case_Study.ipynb**

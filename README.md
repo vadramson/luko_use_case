@@ -6,7 +6,7 @@ In this mini project, I had to do some research about how insurance pricing work
 
 What are they various parameters that are used to calculate home insurance pricing.
 
-After under standing how insurance pricing works, I proceeded in searching for data that could be used to complement/optimize product pricing(_this was the most difficult part of the project_).
+After understanding how insurance pricing works, I proceeded in searching for data that could be used to complement/optimize product pricing(_this was the most difficult part of the project_).
 
 I modelled a DB using Sybase PowerDesigner
 
